@@ -5,6 +5,9 @@
   "author": "Augusto Pohl <augustopohl@hotmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "git-commit-msg-linter": "^3.2.8"
+    "@types/node": "^16.9.1",
+    "@types/react": "^17.0.20",
+    "git-commit-msg-linter": "^3.2.8",
+    "typescript": "^4.4.3"
   }
 }
