@@ -13,6 +13,9 @@
     "strict": true,
     "baseUrl": "src",
     "rootDir": "src",
+    "paths": {
+      "@/*": ["*"]
+    },
     "forceConsistentCasingInFileNames": true,
     "module": "esnext",
     "moduleResolution": "node",
